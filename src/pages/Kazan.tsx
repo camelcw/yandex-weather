@@ -5,7 +5,7 @@ const Kazan = () => {
   return (
     <div>
       <HeaderCity></HeaderCity>
-      Kazan
+      Kazan1
     </div>
   );
 };
