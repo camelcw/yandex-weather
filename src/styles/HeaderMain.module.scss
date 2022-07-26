@@ -1,0 +1,16 @@
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .menu__item {
+        list-style-type: none;
+        border: 1px solid teal;
+        .menu__item_link {
+            text-decoration: none;
+            font-size: 18px;
+            margin: 5px;
+            color: #000;
+        }
+    }
+}
+
